@@ -24,7 +24,7 @@
 
 โปรแกรมนี้เขียนด้วยโปรแกรม Visual Studio 2022 และใช้ .NET Framework เวอร์ชั่น 6.0 เป็นอย่างต่ำ
 ### ดาวน์โหลด โปรแกรมช่วยเป่ายิ้งฉุบ
-[Yulgang Roshambo X Version 1.0.0.0](https://github.com/meawmuay/yulgang-roshambo-x/releases/download/v1.0.0.0/Yulgang.Roshambo.X-V1.0.0.0.zip "Yulgang Roshambo X Version 1.0.0.0")
+[Yulgang Roshambo X Version 1.0.0.1](https://github.com/meawmuay/yulgang-roshambo-x/releases/download/v1.0.0.1/Yulgang.Roshambo.X-V1.0.0.1.zip "Yulgang Roshambo X Version 1.0.0.1")
 <br/>
 <br/>
 ### วิธีแก้ไขปัญหา
